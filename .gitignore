@@ -2,6 +2,7 @@
 *.res
 *.pdb
 *.ilk
-./bin
-./bin-int
-./InnoOut
+
+/bin/
+/bin-int/
+/InnoOut/
